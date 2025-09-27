@@ -80,17 +80,17 @@ docker-compose up -d
    - Nombre
    - Apellido
    - Contraseña
+     
+<img width="1128" height="826" alt="image" src="https://github.com/user-attachments/assets/8a05ac26-815e-4646-9bf7-010a3b8f54c5" />
 
-<img width="980" height="925" alt="image" src="https://github.com/user-attachments/assets/7241f545-59de-4ded-a160-92a19ccde498" />
 
 3. **Accesos posteriores**: Login con las credenciales del Owner Account
 
-<img width="921" height="645" alt="image" src="https://github.com/user-attachments/assets/fab93ac7-5b23-46c0-b0d4-b2bb21642db4" />
-
+<img width="1181" height="829" alt="image" src="https://github.com/user-attachments/assets/fdc524b3-1f43-479a-bb2b-226f575b4001" />
 
 4. **Dashboard inicial n8n**
 
-<img width="983" height="847" alt="image" src="https://github.com/user-attachments/assets/551cfb14-da71-44c8-9685-96dfaa7eeda3" />
+<img width="1911" height="863" alt="image" src="https://github.com/user-attachments/assets/e37fe50b-d924-4a33-b6b1-c981eda44d4b" />
 
 
 ## Comandos de Uso
